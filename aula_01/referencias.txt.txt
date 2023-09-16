@@ -1,0 +1,11 @@
+Referências:
+
+BOZANIC, Darko et al. Modeling of neuro-fuzzy system as a support in decision-making processes. Reports in Mechanical Engineering, v. 2, n. 1, p. 222-234, 2021.
+
+RUTKOWSKI, Tomasz et al. A content-based recommendation system using neuro-fuzzy approach. In: 2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE). IEEE, 2018. p. 1-8.
+
+SHIHABUDHEEN, K. V.; PILLAI, Gopinatha N. Recent advances in neuro-fuzzy system: A survey. Knowledge-Based Systems, v.152, p. 136-162, 2018.
+
+ŠKRJANC, Igor et al. Evolving fuzzy and neuro-fuzzy approaches in clustering, regression, identification, and classification: A survey. Information sciences, v. 490, p. 344-368, 2019.
+
+SOUZA, Paulo Vitor de Campos. Fuzzy neural networks and neuro-fuzzy networks: A review the main techniques and applications used in the literature. Applied soft computing, v. 92, p. 106275, 2020.
